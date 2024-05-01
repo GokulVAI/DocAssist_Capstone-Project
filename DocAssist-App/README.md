@@ -5,7 +5,7 @@
 DocAssist is a medical decision support system designed to assist doctors in making informed decisions about patient treatment options. This system leverages machine learning to analyze patient data and provide personalized treatment recommendations.
 
 ## Problem Statement
-Develop an intelligent system that analyzes patient data to provide personalized treatment recommendations, enhancing decision-making processes for healthcare professionals.
+Developed an intelligent system that analyzes patient data to provide personalized treatment recommendations, enhancing decision-making processes for healthcare professionals.
 
 ## Data
 - **Raw Data**: Located in `data/raw/`.
@@ -23,7 +23,7 @@ Develop an intelligent system that analyzes patient data to provide personalized
 - Run the application: `streamlit run scripts/DocAssist_app_V1.py`
 
 ## Dependencies
-- List all libraries and frameworks used along with their versions.
+- Listed are the libraries and frameworks used along with their versions.
 - pandas: 2.2.2
 - sklearn.preprocessing: Unknown
 - streamlit: 1.33.0
